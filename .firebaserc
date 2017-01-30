@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "oregon-honey"
+    "default": "oregon-honey",
+    "alias": "oregon-honey"
   }
 }
